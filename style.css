@@ -1,0 +1,64 @@
+*  {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+nav {
+    background-color: darkgreen;
+    color: white;
+    text-align: right;
+    border-bottom: burlywood solid 10px;
+    padding: 20px;
+}
+
+.navigationlink {
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+
+article {
+    align-items: center;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+
+h1{
+    padding: 10px;
+}
+
+img {
+    padding: 10px;
+}
+
+/* p {
+    padding: 10px;
+    margin: 25px;
+} */
+
+#contact {
+    background-color: peachpuff;
+    text-align: center;
+    border-top: burlywood solid 10px;
+    padding: 10px;
+    
+}
+
+form {
+    width: 300px;
+    border: burlywood solid 5px;
+    border-radius: 10px;
+    position: relative;
+    left: 40%;
+    
+}
+
+footer {
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+    border-bottom: rgb(53, 53, 53) solid 10px;
+    padding: 20px;
+}
